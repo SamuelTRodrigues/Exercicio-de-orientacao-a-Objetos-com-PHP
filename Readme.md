@@ -5,7 +5,7 @@
     <li> Exercicio do Modulo "Introdução a orientação a objetos da alura" </li>
   </ul>
 </div>
-## Este projeto é um dos modulos da alura onde o objetivo é criar um sistema simples de um banco.
+## Este projeto é um dos modulos da alura onde o objetivo é criar um sistema simples de um banco
 <div>
 
 Ao criar uma conta, é preciso cadastrar o CPF e o nome em formato de string. Também tem como reallizar tranferencia deposito e sacar, utlizando o terminal interativo do php, é bem simples, mas gostei bastante de fazer este curso e do instrutor que tem uma ditatica muito interessante e dinamica. 
