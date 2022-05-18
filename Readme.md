@@ -5,7 +5,7 @@
     <li> Exercicio do Modulo "Introdução a orientação a objetos da alura" </li>
   </ul>
 </div>
-<div style="display: inline_block">
+<div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
 </div>
 <div>
