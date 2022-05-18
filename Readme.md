@@ -1,8 +1,8 @@
 # Estudando Back-End Orientação a objetos
 <div>
 <ul>
-    <li Liguagem usada PHP>
-    <li Exercicio do Modulo "Introdução a orientação a objetos da alura" >
+    <li>Liguagem usada PHP</li>
+    <li> Exercicio do Modulo "Introdução a orientação a objetos da alura" </li>
   </ul>
 </div>
 <div style="display: inline_block">
