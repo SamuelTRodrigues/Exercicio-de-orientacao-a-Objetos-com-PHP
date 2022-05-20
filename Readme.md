@@ -2,7 +2,7 @@
 <div>
 <ul>
     <li>Liguagem usada PHP</li>
-    <li> Exercicio do Modulo "Introdução a orientação a objetos da alura" </li>
+    <li> Este é um simples exercicio de orientação a objetos com PHP, de dois modulos da Alura </li>
   </ul>
 </div>
 
