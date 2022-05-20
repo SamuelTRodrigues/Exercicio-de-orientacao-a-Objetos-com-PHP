@@ -1,6 +1,9 @@
 <?php
-class CPF
-{
+
+namespace Alura\Banco\Modelo;
+final class CPF
+{   
+    use AcessoPropriedade;
     private string $numero;
 
     public function __construct(string $numero)
